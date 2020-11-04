@@ -1,0 +1,93 @@
+---
+########################
+#Settings RankList
+########################
+
+#Gunakan "§" Untuk Perwarnaan
+#Gunakan "\n" Untuk Lanjut Line
+
+#Form Title RankList
+RANKLIST: "§lRANKLIST"
+
+#Form RankList Content
+Content: "§aSelect Category :"
+
+#Form RankList Back
+BACK: "§cBACK\n§fTap To Exit"
+
+########################
+#Settings RankList Rank Button
+########################
+
+#Form RankList RankSatu Button
+RANK1-BUTTON: "RankSatu\n§f Tap To View Features"
+
+#Form RankList RankDua Button
+RANK2-BUTTON: "RankDua\n§fTap To View Features"
+
+#Form RankList RankTiga Button
+RANK3-BUTTON: "RankTiga\n§fTap To View Features"
+
+#Form RankList RankEmpat Button
+RANK4-BUTTON: "RankEmpat\n§fTap To View Features"
+
+#Form RankList RankLima Button
+RANK5-BUTTON: "RankLima\n§fTap To View Features"
+
+########################
+#Settings RankList Rank Title
+########################
+
+#Form RankList RankSatu Title
+RANK1-TITLE: "§bRankSatu"
+
+#Form RankList RankDua Title
+RANK2-TITLE: "§bRankDua"
+
+#Form RankList RankTiga Title
+RANK3-TITLE: "§bRankTiga"
+
+#Form RankList RankEmpat Title
+RANK4-TITLE: "§bRankEmpat"
+
+#Form RankList RankLima Title
+RANK5-TITLE: "§bRankLima"
+
+########################
+#Settings RankList Fitur Rank
+########################
+
+#Form RankList Fitur RankSatu
+FITUR-RANK1: "RankSatu Fitur\nPlugin By DhamarGMNG\n§cEdit In Config.yml"
+
+#Form RankList Fitur RankDua
+FITUR-RANK2: "RankDua Fitur\nPlugin By DhamarGMNG\n§cEdit In Config.yml"
+
+#Form RankList Fitur RankTiga
+FITUR-RANK3: "RankTiga Fitur\nPlugin By DhamarGMNG\n§cEdit In Config.yml"
+
+#Form RankList Fitur RankEmpat
+FITUR-RANK4: "RankEmpat Fitur\nPlugin By DhamarGMNG\n§cEdit In Config.yml"
+
+#Form RankList Fitur RankLima
+FITUR-RANK5: "RankLima Fitur\nPlugin By DhamarGMNG\n§cEdit In Config.yml"
+
+########################
+#Settings RankList Button Back
+########################
+
+#Form RankList RankSatu Title
+RANK1-BACK: "§cBack\n§fTap To Back"
+
+#Form RankList RankDua Title
+RANK2-BACK: "§cBack\n§fTap To Back"
+
+#Form RankList RankTiga Title
+RANK3-BACK: "§cBack\n§fTap To Back"
+
+#Form RankList RankEmpat Title
+RANK4-BACK: "§cBack\n§fTap To Back"
+
+#Form RankList RankLima Title
+RANK5-BACK: "§cBack\n§fTap To Back"
+...

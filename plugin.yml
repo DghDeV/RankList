@@ -1,0 +1,9 @@
+name: RankList
+main: RankList\Main
+api: 3.0.0
+version: 1.0.0
+author: Bajingan123
+
+commands:
+  ranklist:
+    description: "§oRankList"
